@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Creative Android - Java</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourite">Favourite</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="explore">Explore</string>
+    <string name="trending">Trending</string>
+    <string name="news">News</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="screen_dashboard">Dashboard Screen</string>
+    <string name="screen_login">Login Screen</string>
+    <string name="screen_explore">Explore Screen</string>
+    <string name="screen_trending">Trending Screen</string>
+    <string name="screen_profile">Profile Screen</string>
+</resources>
